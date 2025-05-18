@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alejandro-gambin&theme=darkhub" alt="alejandro-gambin" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alejogambin&theme=darkhub" alt="alejandro-gambin" />
   </a>
 </p>
 
@@ -38,5 +38,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-gambin&show_icons=true&locale=es&layout=compact" alt="alejandro-gambin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejogambin&show_icons=true&locale=es&layout=compact" alt="alejandro-gambin" />
 </p>
